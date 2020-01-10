@@ -15,6 +15,7 @@ if (primoNumero == secondoNumero) {
 else if (primoNumero > secondoNumero) {
   console.log(primoNumero);
 }
+
 else {
   console.log(secondoNumero)
 }
